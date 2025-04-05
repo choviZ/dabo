@@ -1,0 +1,18 @@
+.doQuestionPage{
+  .title{
+    margin-bottom: 24px;
+  }
+  .options-wrapper{
+    margin-bottom: 36px;
+  }
+  .controlBtn{
+    margin: 24px 48px;
+    min-width: 180px;
+  }
+  .progress{
+    position: fixed;
+    bottom: 54px;
+    left: 0;
+    right: 0;
+  }
+}
